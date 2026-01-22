@@ -61,10 +61,11 @@ php artisan serve
 - Working with Git and GitHub
 ## Screenshots
 <img width="1918" height="1029" alt="Screenshot 2026-01-23 062352" src="https://github.com/user-attachments/assets/d5cee0aa-df3b-4181-91a1-663740e2b3f0" />
-<img width="1905" height="1024" alt="Screenshot 2026-01-23 064048" src="https://github.com/user-attachments/assets/dcc157ab-3174-4d81-b663-fa3d2e176a02" />
-<img width="1919" height="808" alt="Screenshot 2026-01-23 064056" src="https://github.com/user-attachments/assets/e5bd21a2-fa34-4ae4-857b-5a8a581824aa" />
-<img width="1919" height="1008" alt="Screenshot 2026-01-23 064103" src="https://github.com/user-attachments/assets/9fb7fd4a-13f6-4d80-a208-ebbfeeb76e2d" />
-<img width="1919" height="775" alt="Screenshot 2026-01-23 064109" src="https://github.com/user-attachments/assets/091df17f-eaeb-4a3d-b59c-ed28487fedd7" />
+<img width="1918" height="810" alt="Screenshot 2026-01-23 064715" src="https://github.com/user-attachments/assets/df1cd7dd-5d03-4fba-b908-1549871210c7" />
+<img width="1919" height="931" alt="Screenshot 2026-01-23 064725" src="https://github.com/user-attachments/assets/0f2d4a2a-8233-4b2a-a3a1-602a2bb246dc" />
+<img width="1916" height="1007" alt="Screenshot 2026-01-23 064735" src="https://github.com/user-attachments/assets/23cca545-9145-4da3-b3e5-c29cafd4accd" />
+<img width="1919" height="904" alt="Screenshot 2026-01-23 064748" src="https://github.com/user-attachments/assets/6ef7f653-86ad-4515-a64a-2c11b356ae4e" />
+
 
 
 ## License
