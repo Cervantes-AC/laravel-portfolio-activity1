@@ -3,10 +3,10 @@
 @section('title', 'About Me')
 
 @section('content')
-    <h1>About Me</h1>
+    <h1 style="color: #0f7431;">About Me</h1>
 
     <div style="margin-top: 2rem;">
-        <h2 style="color: #3498db;">
+        <h2 style="color: #eb5e00;">
             {{ $name }}
         </h2>
 

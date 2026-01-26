@@ -3,7 +3,7 @@
 @section('title', 'My Projects')
 
 @section('content')
-    <h1>My Projects</h1>
+    <h1 style="color: #864f22;">My Projects</h1>
 
     <div style="margin-top: 2rem;">
         @foreach ($projects as $project)
